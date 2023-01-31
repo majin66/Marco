@@ -1,0 +1,25 @@
+Github & VSCode Link
+
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin « link »
+    git push -u origin main
+
+Create test branch
+
+    git checkout -b test
+
+Merge branch
+
+    git fetch
+    git merge test 
+
+Pull branch
+
+    git pull origin test
+
+Github push
+
+    git push origin test
